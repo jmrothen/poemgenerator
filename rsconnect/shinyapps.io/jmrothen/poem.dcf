@@ -1,0 +1,10 @@
+name: poem
+title:
+username:
+account: jmrothen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3311486
+bundleId: 3912932
+url: https://jmrothen.shinyapps.io/poem/
+when: 1606489630.96253
